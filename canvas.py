@@ -1,6 +1,6 @@
 # !/usr/bin/python3
 from tkinter import *
-#noob u forget comments to add
+#noob u forget comments to add and commit log
 from tkinter import messagebox
 
 top = Tk()
